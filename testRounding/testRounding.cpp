@@ -55,6 +55,9 @@ int _tmain(int argc, TCHAR* argv[], TCHAR* envp[])
     f = 0.0005f;
 
     printf("%.3f\n", f);
+
+
+
     
     delta = 1e-7;
     f = 3.55f;
